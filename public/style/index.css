@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700;800&family=PT+Serif:wght@400;700&family=Poppins:wght@400;600;700&family=Signika+Negative:wght@500;600;700&display=swap');
+*{
+    font-family: "Josefin Sans";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    background-color: #D6CDA4;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+form.d-flex.search {
+    width: 100%;
+}
+
+.carousel-inner {
+    margin-top: 40px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.carousel-item-prod img {
+    display: flex;
+    max-width: 400px;
+    max-height: 500px;
+    margin-left: 150px;
+}
+
+.mb-4 h2 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.col-md-5 {
+    max-width: 190px;
+    max-height: 290px;
+}
+
+.col-co {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+    margin-top: 80px;
+}
+
+.roww {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+.mb-5 {
+    border-radius: 20px;
+    border-color: black;
+    border-width: 3px;
+    padding: 30px;
+}
+
+.mb-6 {
+    border-radius: 20px;
+    border-color: black;
+    border-width: 3px;
+    padding: 5px;
+}
+
+.col-desc {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.bg-beige {
+    background-color: #D6CDA4;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 10px;
+    text-align: center;
+}
+
+.card-body-prod .kategori {
+    font-weight: 100px;
+}
+
+.card-body-prod h5{
+    font-size: 30px;
+}
+
+.card-body-prod h5{
+    font-size: 30px;
+}
+
+.card-body p {
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.card-body h4 {
+    padding-top: 15px;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+.card-teks
+{
+    margin-bottom: -20px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.col-oto p {
+    font-size: 20px;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35px;
+}
+
+.list-group-item a {
+    color: black;
+}
+
+.btn-buy {
+    color: #fff;
+}
+
+.bg-cream {
+    background-color: #D6CDA4;
+}
+
+.bg-green {
+    background-color: #1C6758;
+}
+
